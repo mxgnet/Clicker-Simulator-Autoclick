@@ -3,3 +3,5 @@
 automatically clicks for you (dont click the click button while its autofarming)
 
 https://github.com/m5gnet/clicker-simulator-autofarm/blob/main/main.lua
+
+add me magnet#0001
