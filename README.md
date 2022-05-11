@@ -1,7 +1,9 @@
-## read the title
+# How to use
 
-automatically clicks for you (dont click the click button while its autofarming)
+Game: https://roblox.com/games/7560156054
 
-https://github.com/m5gnet/clicker-simulator-autofarm/blob/main/main.lua
+Do not click the clicking button or click while it's running, otherwise for some reason, it'll break.
 
-add me magnet#0001
+# Contact me
+
+Current discord is stir#0001, if the tag has changed you can go to https://discord.id and type in my id: 394318793637232641
